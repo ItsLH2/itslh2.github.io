@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the home of LH2
 
 You can use the [editor on GitHub](https://github.com/ItsLH2/itslh2.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
